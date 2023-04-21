@@ -157,7 +157,7 @@ button:focus {
 .logo {
   height: 3em !important;
   width: 7em !important;
-  color: whitesmoke;
+  filter: invert(100);
 }
 
 .navbar-nav .nav-link {
