@@ -73,7 +73,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/vediicaa"
+                  href="https://github.com/meraj-007"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -83,7 +83,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/vedica-mishra-417ab3221/"
+                  href="https://www.linkedin.com/in/mohd-meraj/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -93,7 +93,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/vediicaa"
+                  href="https://www.instagram.com/__meraj__007__"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
