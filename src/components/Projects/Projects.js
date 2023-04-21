@@ -50,8 +50,6 @@ function Projects() {
               ghLink="https://github.com/meraj-007/SOCKET-PROGRAMMING-WITH-AES"
             />
           </Col>
-            />
-          </Col>
         </Row>
       </Container>
     </Container>
