@@ -25,9 +25,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="ChargeGenie"
-              description="Predicts legal charges when provided with facts based data as presented in the Supreme Court."
-              ghLink="https://github.com/vediicaa/ChargeGenie"
+              title="Apna Hostel"
+              description="Easier and convienient way to find a hostel in an unknown city"
+              ghLink="hhttps://github.com/meraj-007/apnaHOSTEL"
             />
           </Col>
 
@@ -35,9 +35,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Blind Detection of Underwater Acoustic Signals"
-              description="Built an ANN model and trained it on the real underwater acoustic signal. It classifies the type of the ship based on the audio signal received."
-              ghLink="https://github.com/vediicaa/UnderwaterCommunication."
+              title="RFID based cart"
+              description="Built under the IOT project."
+              ghLink="https://github.com/meraj-007/RFID-based-Smart-Shopping-Cart"
             />
           </Col>
 
@@ -45,35 +45,13 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="To do list"
-              description="Your daily task manager. Implemented with MongoDB database and Node.js sever for backend and HTML, CSS, Javascript and Bootstrap Templates for front-end"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"
+              title="Socket Programming with AES"
+              description="Built under Computer Networks Project."
+              ghLink="https://github.com/meraj-007/SOCKET-PROGRAMMING-WITH-AES"
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="Blind Stick"
-              description="Blind stick detects any obstacle and alarms the person holding it. Implemented using Arduino UNO and an ultrasonic senosr. Used Arduino IDE for coding."
-              ghLink="https://github.com/vediicaa/Blind-stick-using-Arduino-Uno"
-              demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={suicide}
-              isBlog={false}
-              title="Drumkit"
-              description="Basic Drumkit website that allows user to play drums through keyboard keys and icons on the webpage."
-              ghLink="https://github.com/vediicaa/drumkit"
-              demoLink="https://vediicaa.github.io/drumkit/"
-            />
-          </Col>
-
         </Row>
       </Container>
     </Container>
